@@ -31,7 +31,6 @@
 ```bash
 pip install -r requirements.txt
 ```
-pip install streamlit PyPDF2 python-docx easyocr opencv-python-headless duckduckgo-search google-generativeai beautifulsoup4 requests
 ---
 
 
