@@ -9,6 +9,6 @@ beautifulsoup4
 duckduckgo-search
 pymupdf
 easyocr
-opencv-python
+opencv-python-headless
 matplotlib
 requests
